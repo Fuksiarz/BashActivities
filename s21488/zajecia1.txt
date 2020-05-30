@@ -1,0 +1,17 @@
+INSTALACJA UBUNTU NA MASZYNIE WIRTUALNEJ
+1. Pobieramy maszyne wirtualna(na przykladzie oracle vm virtualbox)
+2. Pobieramy obraz (plik .iso) ze strony producenta
+2. W lewym gornym rogu dodajemy maszyne klikajac "New"
+3. W pierwszym polu podajemy nazwe jak chcemy nazwac nasza maszyne,
+	drugim typ systemu a trzecim jego wersje i klikamy next.
+4. Nastepnie przyporzadkowujemy ilosc pamieci ram do wykorzystania
+	przez maszyne.
+5. Dalej towrzymy virtualny dysk twardy, zatwierdzamy "Create"
+6. Wybieramy VDI(Virtualbox Disc Image) czyli montujemy obraz
+7. Przydzielamy staly rozmiar 50gb dysku.
+8. Widzimy, ze nasza maszyna jest na pasku maszyn z menu, wybieramy ja.
+9. Przechodzimy do zakladki "Pamiec" i dodajemy (przy kontrolerze sata)
+	wczesniej sciagniety obraz.
+10. W zakladce "Ekran" jak i "System" mozemy dowonie ustawic 
+	wydajnosc naszej maszyny
+11. Odpalamy i przechodzimy przez zrozumialy instalator krok po kroku.
