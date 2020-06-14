@@ -14,4 +14,4 @@ INSTALACJA UBUNTU NA MASZYNIE WIRTUALNEJ
 	wczesniej sciagniety obraz.
 10. W zakladce "Ekran" jak i "System" mozemy dowonie ustawic 
 	wydajnosc naszej maszyny
-11. Odpalamy i przechodzimy przez zrozumialy instalator krok po kroku.
+11. Odpalamy i przechodzimy przez zrozumialy instalator krok po kroku...
